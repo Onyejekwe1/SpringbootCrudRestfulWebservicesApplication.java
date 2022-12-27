@@ -14,6 +14,8 @@ in the application.properties file.
 
 ## To run the app
 
+## The project also contains a swagger doc located in: http://localhost:8080/swagger-ui/
+
 ```
 mvn spring-boot:run
 ```
