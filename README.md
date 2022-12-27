@@ -19,5 +19,5 @@ mvn spring-boot:run
 ```
 
 ```
-The project also includes a sampleData.sql file to run test data.
+The project also includes a sampleData.sql file in resources package to run test data.
 ```
