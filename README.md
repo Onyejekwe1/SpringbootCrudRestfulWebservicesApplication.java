@@ -21,4 +21,3 @@ mvn spring-boot:run
 ```
 The project also includes a sampleData.sql file to run test data.
 ```
-
